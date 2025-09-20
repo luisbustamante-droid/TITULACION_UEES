@@ -1,4 +1,4 @@
-# 📌 Proyecto: [Nombre del Proyecto]
+# 📌 Clasificación explicable de arritmias cardíacas a partir de electrocardiogramas transformados en espectrogramas mediante redes neuronales convolucionales
 
 ## 📖 Descripción
 Este repositorio contiene la documentación, código y entregables asociados al proyecto **[Nombre del Proyecto]**, cuyo objetivo es [breve objetivo en una línea].  
