@@ -125,10 +125,9 @@ Duración: **6 semanas (4 sprints)**
 ---
 
 ## 👨‍💻 Equipo
-- **Project Manager:** [Nombre]  
-- **Desarrollador:** [Nombre]  
-- **Analista de Datos:** [Nombre]  
-- **Consultor Externo:** [Nombre]  
+- **Project Manager:** [Luis Bustamante]  
+- **Desarrollador:** [Damaris Alarcón - Luis Bustamante]  
+- **Analista de Datos:** [Damaris Alarcón - Luis Bustamante]    
 
 ---
 
