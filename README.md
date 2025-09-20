@@ -142,5 +142,14 @@ Duración: **6 semanas (4 sprints)**
 
 ---
 
+## 📂 Datasets
+Este proyecto hace uso de datasets públicos de **PhysioNet**:  
+
+- [MIT-BIH Arrhythmia Database](https://physionet.org/content/mitdb/1.0.0/)  
+- [ECG Arrhythmia Dataset](https://physionet.org/content/ecg-arrhythmia/1.0.0/)  
+- [PhysioNet Challenge 2021](https://physionet.org/content/challenge-2021/1.0.3/)  
+
+---
+
 ## 📜 Licencia
 Este proyecto se distribuye bajo la licencia **MIT**. Consulta el archivo [LICENSE](LICENSE) para más información.  
