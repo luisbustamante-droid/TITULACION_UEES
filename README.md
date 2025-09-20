@@ -28,22 +28,12 @@ El desarrollo sigue una metodología ágil con enfoque investigativo, técnico y
 - Análisis de sesgos y limitaciones  
 - Plan de preprocesamiento y plan alternativo  
 
-**Entregables:**
-- Tabla comparativa de datasets  
-- Recomendación del dataset principal  
-- Estrategia de fallback (Plan B)  
-
 ---
 
 ### 3. 📏 Definición de Métricas de Éxito
 - **Métricas técnicas**: Accuracy, F1-score, Precision, Recall, AUC, RMSE  
 - **Métricas de impacto**: KPIs de negocio, adopción y satisfacción de usuarios  
 - **Umbrales de éxito**: mínimos aceptables vs. objetivos de excelencia  
-
-**Entregables:**
-- Lista de métricas técnicas y de impacto  
-- Benchmarks frente a soluciones existentes  
-- Valores objetivo documentados  
 
 ---
 
@@ -53,21 +43,12 @@ El desarrollo sigue una metodología ágil con enfoque investigativo, técnico y
 - Análisis de expectativas y resistencias  
 - Plan de comunicación diferenciado  
 
-**Entregables:**
-- Tabla con roles, necesidades y barreras  
-- Estrategia de involucramiento por stakeholder  
-
 ---
 
 ### 5. 🎯 Documento de Alcance
 - Objetivos SMART (general + específicos)  
 - Entregables claros con criterios de aceptación  
 - Limitaciones y supuestos explícitos  
-
-**Entregables:**
-- Objetivo general y específicos  
-- Alcance incluido y excluido  
-- Criterios de aceptación  
 
 ---
 
