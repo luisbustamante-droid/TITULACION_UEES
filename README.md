@@ -151,5 +151,35 @@ Este proyecto hace uso de datasets públicos de **PhysioNet**:
 
 ---
 
+## 📂 Datasets Samples
+
+Además de los datasets completos de PhysioNet, este repositorio hace referencia a versiones adaptadas/publicadas en otras plataformas para facilitar el acceso y el uso en pruebas rápidas.  
+
+### 🔹 Kaggle – MIT-BIH Arrhythmia Database (Modern 2023)
+📎 [MIT-BIH Arrhythmia Database (Modern 2023)](https://www.kaggle.com/datasets/protobioengineering/mit-bih-arrhythmia-database-modern-2023?resource=download)  
+
+- **Origen:** MIT-BIH Arrhythmia Database (PhysioNet).  
+- **Formato:** Archivos `.csv` listos para uso directo.  
+- **Contenido:** Registros completos y anotaciones clínicas preprocesadas.  
+- **Ventaja:** Evita trabajar con los formatos originales `.dat` y `.hea`, ofreciendo una versión moderna y accesible para proyectos en Python, R o notebooks de Kaggle.  
+- **Uso recomendado:** Entrenamiento rápido de modelos y exploración inicial de datos.  
+
+---
+
+### 🔹 Mendeley Data – ECG signals (1000 fragments)
+📎 [ECG signals (1000 fragments)](https://data.mendeley.com/datasets/7dybx7wyfn/3)  
+
+- **Origen:** MIT-BIH Arrhythmia Database (PhysioNet).  
+- **Formato:** Archivos `.csv` con fragmentos de 10 segundos.  
+- **Contenido:** 1000 fragmentos de señales ECG con etiquetas de clases (ritmos normales y arritmias).  
+- **Ventaja:** Tamaño reducido y fragmentación lista para pruebas rápidas sin necesidad de extraer manualmente.  
+- **Uso recomendado:** Prototipado, validación de pipelines y generación de ejemplos representativos en repositorios o notebooks.  
+
+---
+
+📌 **Nota:** Ambos samples provienen del dataset original **MIT-BIH Arrhythmia Database**, pero están publicados en formatos adaptados para facilitar su uso en investigación y enseñanza.  
+
+---
+
 ## 📜 Licencia
 Este proyecto se distribuye bajo la licencia **MIT**. Consulta el archivo [LICENSE](LICENSE) para más información.  
