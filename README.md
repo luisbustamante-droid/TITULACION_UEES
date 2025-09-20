@@ -79,21 +79,11 @@ Duración: **6 semanas (4 sprints)**
 - **Sprint 3**: Optimización y validación  
 - **Sprint 4**: Finalización y documentación  
 
-**Entregables:**
-- Backlog con user stories priorizadas  
-- Sprint Goals y Definition of Done  
-- Plan de riesgos y mitigación por sprint  
-
 ---
 
 ### 7. 🛠️ Plan de Recursos
 - **Humanos**: desarrollador, analista, PM, consultores externos  
-- **Técnicos**: servidores, GPUs, software, datasets  
-- **Financieros**: presupuesto estimado + contingencias (15–20%)  
-
-**Entregables:**
-- Tabla de recursos humanos y técnicos  
-- Estimación de horas y costos por sprint  
+- **Técnicos**: servidores, GPUs, software, datasets 
 
 ---
 
@@ -101,11 +91,6 @@ Duración: **6 semanas (4 sprints)**
 - 8 hitos principales distribuidos en 6 semanas  
 - Entregables medibles y revisados  
 - Procedimientos de aprobación y control de riesgos  
-
-**Entregables:**
-- Documento técnico (PDF, 25–30 páginas, IEEE references)  
-- Repositorio GitHub con código/documentación  
-- Datasets samples, diagramas y mockups  
 
 ---
 
@@ -117,10 +102,10 @@ Duración: **6 semanas (4 sprints)**
 ---
 
 ## 🚀 Tecnologías y Herramientas
-- **Lenguajes:** [Python, R, etc.]  
+- **Lenguajes:** [Python]  
 - **Frameworks IA/ML:** [PyTorch, TensorFlow, Scikit-learn]  
-- **Gestión Ágil:** Scrum, Jira/Trello  
-- **Infraestructura:** [AWS, GCP, GPUs locales]  
+- **Gestión Ágil:** Scrum
+- **Infraestructura:** [Sevidor en arquitectura Linux]  
 
 ---
 
@@ -134,10 +119,10 @@ Duración: **6 semanas (4 sprints)**
 ## 📅 Cronograma General
 | Sprint | Semanas | Objetivos principales         |
 |--------|----------|------------------------------|
-| 1      | 1–2      | Investigación y diseño       |
-| 2      | 3–4      | Desarrollo core              |
-| 3      | 5        | Optimización y validación    |
-| 4      | 6        | Testing y documentación      |
+| 1      | 1        | Investigación y diseño       |
+| 2      | 2        | Desarrollo core              |
+| 3      | 3,4      | Optimización y validación    |
+| 4      | 5,6      | Testing y documentación      |
 
 ---
 
